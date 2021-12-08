@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    /*background-color: rgb(228, 185, 15);*/
+}
+
+#titulo{
+    padding: 5px;
+}
+
+#contenido{
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+    padding: 5px;
+}
+
+header img{
+    width: 150px;
+    float: left;
+}
+
+#ulcabecera{
+    text-align: left;
+    list-style: none;
+    padding-left: 165px;
+}
+
+hr{
+    background-color: black;
+    width: 92%;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.content{
+    padding: 20px;
+    padding-left: 50px;
+}
+
+.lista{
+    width: 40%;
+    padding: 20px;
+    padding-left: 50px;
+}
+
+.lista ul {
+    list-style: none;
+}
+
+#idiomas{
+    float: left;
+}
+
+#conocimientos{
+    float: right;
+}
