@@ -1,4 +1,4 @@
-# 🌟 Portfolio & CV | María Trinidad Aguirre
+# 🌟 Portfolio | María Trinidad Aguirre
 
 ¡Bienvenido/a a mi portfolio profesional! Este sitio web muestra mi experiencia, habilidades y proyectos. Desplegado en Netlify para acceso global.
 
